@@ -1,0 +1,5 @@
+db.getCollection('movies').find({country : "Canada"}).count()
+db.getCollection('movies').find({imdb_score : {$gt : 9}}).count()
+db.getCollection('movies').find({ $or: [{actor_1_name: "Natalie Portman"}, {actor_2_name: "Natalie Portman"}, {actor_3_name: "Natalie Portman"}]})
+db.getCollection('movies').find({ $or: [{actor_1_name: "Clint Eastwood"}, {actor_2_name: "Clint Eastwood"}, {actor_3_name: "Clint Eastwood"},{director_name: "Clint Eastwood"}]})
+db.getCollection('movies').find({ genres: {$regex: ".*Drama.*"}}).count()

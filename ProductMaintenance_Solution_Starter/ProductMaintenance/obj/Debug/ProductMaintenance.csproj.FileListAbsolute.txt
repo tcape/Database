@@ -1,0 +1,60 @@
+C:\C# 2012 Instructor's CD\Extra exercise solutions\Chapter 20\ProductMaintenance\ProductMaintenance\bin\Debug\ProductMaintenance.exe.config
+C:\C# 2012 Instructor's CD\Extra exercise solutions\Chapter 20\ProductMaintenance\ProductMaintenance\obj\Debug\ProductMaintenance.csprojResolveAssemblyReference.cache
+C:\C# 2012 Instructor's CD\Extra exercise solutions\Chapter 20\ProductMaintenance\ProductMaintenance\obj\Debug\ProductMaintenance.frmAddModifyProduct.resources
+C:\C# 2012 Instructor's CD\Extra exercise solutions\Chapter 20\ProductMaintenance\ProductMaintenance\obj\Debug\ProductMaintenance.frmProductMaintenance.resources
+C:\C# 2012 Instructor's CD\Extra exercise solutions\Chapter 20\ProductMaintenance\ProductMaintenance\obj\Debug\ProductMaintenance.Properties.Resources.resources
+C:\C# 2012 Instructor's CD\Extra exercise solutions\Chapter 20\ProductMaintenance\ProductMaintenance\obj\Debug\ProductMaintenance.csproj.GenerateResource.Cache
+C:\C# 2012 Instructor's CD\Extra exercise solutions\Chapter 20\ProductMaintenance\ProductMaintenance\bin\Debug\MMABooks.mdf
+C:\C# 2012 Instructor's CD\Extra exercise solutions\Chapter 20\ProductMaintenance\ProductMaintenance\bin\Debug\MMABooks_log.ldf
+C:\C# 2012 Instructor's CD\Extra exercise solutions\Chapter 20\ProductMaintenance\ProductMaintenance\bin\Debug\ProductMaintenance.exe
+C:\C# 2012 Instructor's CD\Extra exercise solutions\Chapter 20\ProductMaintenance\ProductMaintenance\bin\Debug\ProductMaintenance.pdb
+C:\C# 2012 Instructor's CD\Extra exercise solutions\Chapter 20\ProductMaintenance\ProductMaintenance\obj\Debug\ProductMaintenance.exe
+C:\C# 2012 Instructor's CD\Extra exercise solutions\Chapter 20\ProductMaintenance\ProductMaintenance\obj\Debug\ProductMaintenance.pdb
+C:\Users\Anne.murach\Documents\C# 2012\Extra exercise solutions\Chapter 20\Extra 20-1 ProductMaintenance\ProductMaintenance\bin\Debug\ProductMaintenance.exe.config
+C:\Users\Anne.murach\Documents\C# 2012\Extra exercise solutions\Chapter 20\Extra 20-1 ProductMaintenance\ProductMaintenance\obj\Debug\ProductMaintenance.exe
+C:\Users\Anne.murach\Documents\C# 2012\Extra exercise solutions\Chapter 20\Extra 20-1 ProductMaintenance\ProductMaintenance\obj\Debug\ProductMaintenance.pdb
+C:\Users\Anne.murach\Documents\C# 2012\Extra exercise solutions\Chapter 20\Extra 20-1 ProductMaintenance\ProductMaintenance\bin\Debug\MMABooks.mdf
+C:\Users\Anne.murach\Documents\C# 2012\Extra exercise solutions\Chapter 20\Extra 20-1 ProductMaintenance\ProductMaintenance\bin\Debug\MMABooks_log.ldf
+C:\Users\Anne.murach\Documents\C# 2012\Extra exercise solutions\Chapter 20\Extra 20-1 ProductMaintenance\ProductMaintenance\bin\Debug\ProductMaintenance.exe
+C:\Users\Anne.murach\Documents\C# 2012\Extra exercise solutions\Chapter 20\Extra 20-1 ProductMaintenance\ProductMaintenance\bin\Debug\ProductMaintenance.pdb
+C:\Users\Anne.murach\Documents\C# 2012\Extra exercise solutions\Chapter 20\Extra 20-1 ProductMaintenance\ProductMaintenance\obj\Debug\ProductMaintenance.csprojResolveAssemblyReference.cache
+C:\Users\Anne.murach\Documents\C# 2012\Extra exercise solutions\Chapter 20\Extra 20-1 ProductMaintenance\ProductMaintenance\obj\Debug\ProductMaintenance.frmAddModifyProduct.resources
+C:\Users\Anne.murach\Documents\C# 2012\Extra exercise solutions\Chapter 20\Extra 20-1 ProductMaintenance\ProductMaintenance\obj\Debug\ProductMaintenance.frmProductMaintenance.resources
+C:\Users\Anne.murach\Documents\C# 2012\Extra exercise solutions\Chapter 20\Extra 20-1 ProductMaintenance\ProductMaintenance\obj\Debug\ProductMaintenance.Properties.Resources.resources
+C:\Users\Anne.murach\Documents\C# 2012\Extra exercise solutions\Chapter 20\Extra 20-1 ProductMaintenance\ProductMaintenance\obj\Debug\ProductMaintenance.csproj.GenerateResource.Cache
+C:\C# 2015\Extra exercises\Exercise solutions\Chapter 20\Extra 20-1 ProductMaintenance\ProductMaintenance\bin\Debug\ProductMaintenance.exe.config
+C:\C# 2015\Extra exercises\Exercise solutions\Chapter 20\Extra 20-1 ProductMaintenance\ProductMaintenance\obj\Debug\ProductMaintenance.exe
+C:\C# 2015\Extra exercises\Exercise solutions\Chapter 20\Extra 20-1 ProductMaintenance\ProductMaintenance\obj\Debug\ProductMaintenance.pdb
+C:\C# 2015\Extra exercises\Exercise solutions\Chapter 20\Extra 20-1 ProductMaintenance\ProductMaintenance\bin\Debug\MMABooks.mdf
+C:\C# 2015\Extra exercises\Exercise solutions\Chapter 20\Extra 20-1 ProductMaintenance\ProductMaintenance\bin\Debug\MMABooks_log.ldf
+C:\C# 2015\Extra exercises\Exercise solutions\Chapter 20\Extra 20-1 ProductMaintenance\ProductMaintenance\bin\Debug\ProductMaintenance.exe
+C:\C# 2015\Extra exercises\Exercise solutions\Chapter 20\Extra 20-1 ProductMaintenance\ProductMaintenance\bin\Debug\ProductMaintenance.pdb
+C:\C# 2015\Extra exercises\Exercise solutions\Chapter 20\Extra 20-1 ProductMaintenance\ProductMaintenance\obj\Debug\ProductMaintenance.csprojResolveAssemblyReference.cache
+C:\C# 2015\Extra exercises\Exercise solutions\Chapter 20\Extra 20-1 ProductMaintenance\ProductMaintenance\obj\Debug\ProductMaintenance.frmAddModifyProduct.resources
+C:\C# 2015\Extra exercises\Exercise solutions\Chapter 20\Extra 20-1 ProductMaintenance\ProductMaintenance\obj\Debug\ProductMaintenance.frmProductMaintenance.resources
+C:\C# 2015\Extra exercises\Exercise solutions\Chapter 20\Extra 20-1 ProductMaintenance\ProductMaintenance\obj\Debug\ProductMaintenance.Properties.Resources.resources
+C:\C# 2015\Extra exercises\Exercise solutions\Chapter 20\Extra 20-1 ProductMaintenance\ProductMaintenance\obj\Debug\ProductMaintenance.csproj.GenerateResource.Cache
+C:\Code\BitBucket\CS\CST324\ProductMaintenance_Solution\ProductMaintenance\bin\Debug\MMABooks.mdf
+C:\Code\BitBucket\CS\CST324\ProductMaintenance_Solution\ProductMaintenance\bin\Debug\MMABooks_log.ldf
+C:\Code\BitBucket\CS\CST324\ProductMaintenance_Solution\ProductMaintenance\bin\Debug\ProductMaintenance.exe.config
+C:\Code\BitBucket\CS\CST324\ProductMaintenance_Solution\ProductMaintenance\bin\Debug\ProductMaintenance.exe
+C:\Code\BitBucket\CS\CST324\ProductMaintenance_Solution\ProductMaintenance\bin\Debug\ProductMaintenance.pdb
+C:\Code\BitBucket\CS\CST324\ProductMaintenance_Solution\ProductMaintenance\obj\Debug\ProductMaintenance.frmAddModifyProduct.resources
+C:\Code\BitBucket\CS\CST324\ProductMaintenance_Solution\ProductMaintenance\obj\Debug\ProductMaintenance.frmProductMaintenance.resources
+C:\Code\BitBucket\CS\CST324\ProductMaintenance_Solution\ProductMaintenance\obj\Debug\ProductMaintenance.Properties.Resources.resources
+C:\Code\BitBucket\CS\CST324\ProductMaintenance_Solution\ProductMaintenance\obj\Debug\ProductMaintenance.csproj.GenerateResource.Cache
+C:\Code\BitBucket\CS\CST324\ProductMaintenance_Solution\ProductMaintenance\obj\Debug\ProductMaintenance.csproj.CoreCompileInputs.cache
+C:\Code\BitBucket\CS\CST324\ProductMaintenance_Solution\ProductMaintenance\obj\Debug\ProductMaintenance.exe
+C:\Code\BitBucket\CS\CST324\ProductMaintenance_Solution\ProductMaintenance\obj\Debug\ProductMaintenance.pdb
+C:\Users\tcape\Desktop\CST324\ProductMaintenance_Solution_Starter\ProductMaintenance\bin\Debug\MMABooks.mdf
+C:\Users\tcape\Desktop\CST324\ProductMaintenance_Solution_Starter\ProductMaintenance\bin\Debug\MMABooks_log.ldf
+C:\Users\tcape\Desktop\CST324\ProductMaintenance_Solution_Starter\ProductMaintenance\bin\Debug\ProductMaintenance.exe.config
+C:\Users\tcape\Desktop\CST324\ProductMaintenance_Solution_Starter\ProductMaintenance\bin\Debug\ProductMaintenance.exe
+C:\Users\tcape\Desktop\CST324\ProductMaintenance_Solution_Starter\ProductMaintenance\bin\Debug\ProductMaintenance.pdb
+C:\Users\tcape\Desktop\CST324\ProductMaintenance_Solution_Starter\ProductMaintenance\obj\Debug\ProductMaintenance.frmAddModifyProduct.resources
+C:\Users\tcape\Desktop\CST324\ProductMaintenance_Solution_Starter\ProductMaintenance\obj\Debug\ProductMaintenance.frmProductMaintenance.resources
+C:\Users\tcape\Desktop\CST324\ProductMaintenance_Solution_Starter\ProductMaintenance\obj\Debug\ProductMaintenance.Properties.Resources.resources
+C:\Users\tcape\Desktop\CST324\ProductMaintenance_Solution_Starter\ProductMaintenance\obj\Debug\ProductMaintenance.csproj.GenerateResource.cache
+C:\Users\tcape\Desktop\CST324\ProductMaintenance_Solution_Starter\ProductMaintenance\obj\Debug\ProductMaintenance.csproj.CoreCompileInputs.cache
+C:\Users\tcape\Desktop\CST324\ProductMaintenance_Solution_Starter\ProductMaintenance\obj\Debug\ProductMaintenance.exe
+C:\Users\tcape\Desktop\CST324\ProductMaintenance_Solution_Starter\ProductMaintenance\obj\Debug\ProductMaintenance.pdb

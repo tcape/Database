@@ -1,0 +1,54 @@
+User 
+	Id
+	UserType(admin / rider / driver)
+	Email
+	Password
+	FirstName
+	LastName
+	Phone
+	
+Vehicle
+	Id
+	FK_DriverId
+	Make
+	Model
+	Year
+	LicensePlate
+
+RideRequest
+	Id
+	FK_RiderId (required)
+	DriverId
+	DesiredTime
+	Street
+	City
+	State
+	Zip
+	Accepted t/f (set by driver)
+	EstArrivalTime (set by driver)
+	Fulfilled t/f	(set by rider)
+
+
+RideRequest_Rider
+	Id
+	FK_RideRequestId
+	FK_RiderID
+
+
+RideRequest_Driver
+	Id
+	FK_RideRequestId
+	FK_DriverId
+
+
+Payment
+	Id
+	FK_RideRequestId	
+	DriverId
+	PaymentType (card / cash)
+	NameOnCard
+	CardNumber
+	ExpDate
+
+
+	
